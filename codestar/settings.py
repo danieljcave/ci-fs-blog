@@ -31,9 +31,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-danieljcave-ci-fs-blog-86xb3i56p2.us2.codeanyapp.com', 
-'ci-fs-blog-85135e11dc32.herokuapp.com']
-
+ALLOWED_HOSTS = ['8000-danieljcave-ci-fs-blog-86xb3i56p2.us2.codeanyapp.com',
+                 'ci-fs-blog-85135e11dc32.herokuapp.com']
 
 # Application definition
 
